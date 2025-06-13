@@ -16,27 +16,27 @@ I'm currently data scientist at Société Générale and focusing on building in
 ## 🚀 Tech Stack
 
 **Languages:** 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)   
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Frameworks/Libraries:**  
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)  
-![Langchain](https://img.shields.io/badge/-Langchain-1C3C3C?style=flat-square&logo=Langchain&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)  
-![Kedro](https://img.shields.io/badge/-Kedro-FFC900?style=flat-square&logo=Kedro&logoColor=black)  
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)  
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-1C3C3C?style=flat-square&logo=Langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Kedro](https://img.shields.io/badge/-Kedro-FFC900?style=flat-square&logo=Kedro&logoColor=black)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 
 **Tools & Platforms:**   
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github&logoColor=white)
 
 **Databases:**   
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
