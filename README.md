@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Carl-Dimitri Fogue
 
-### 💻 Data Scientist / Engineer | Passionate about code, AI and business.
+### 💻 Data Scientist | Passionate about code, AI and business.
 
-I'm currently data scientist at Société Générale and focusing on building intuitive and performant GenAI application, improving machine learning model and above all I love working across the stack and constantly learning new tools and technologies.
+I'm currently a Data Scientist at Société Générale, focusing on building intuitive and high-performance GenAI applications, improving machine learning models, and designing scalable infrastructure to support robust and efficient ML systems. I enjoy working on all layers of the ML pipeline, from data ingestion and preprocessing to model deployment and monitoring, while continuously learning new tools and technologies.
 
 - 🌍 I'm based in Strasbourg, France.
 - 🔭 Currently working on: AfricAI, AI Agents specialized on legal documents.
 - 🌱 Currently learning: DevOps, Cloud Computing
 - 📫 Reach me at: carldimitri.fogue@gmail.com
 - 💬 Ask me about: Python, Langchain, Spark, SQL
-- ⚡ Fun fact: I never give up ! 
+- ⚡ Something About Me: I will never stop learning ! 
 
 ---
 
@@ -38,13 +38,13 @@ I'm currently data scientist at Société Générale and focusing on building in
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ---
 
 ## 📌 Featured Projects
 
-### [🔹 AfricAi AI Agents, Legal Experts](https://github.com/akacarlll)
-Automated AI agents for legal analysis across multiple countries, extracting and processing legal documents to provide specialized insights for legal professionals.
+### [🔹 AfricAi AI Agents, Legal Experts](https://github.com/akacarlll/AfricAI)
+Automated pipeline from data scraping and processing to index creation, aimed at developing AI agents for legal analysis across multiple countries.
 **Tech:** Python, Kedro, Pandas, Langchain, FAISS, Langchain, PostgreSQL Firebase
 
 ### [🔹 Africai WebSite](https://github.com/akacarlll/africai_website)
