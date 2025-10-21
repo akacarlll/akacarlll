@@ -2,10 +2,10 @@
 
 ### 💻 Data Scientist | Passionate about code, AI and business.
 
-I'm currently a Data Scientist at Société Générale, focusing on building intuitive and high-performance GenAI applications, improving machine learning models, and designing scalable infrastructure to support robust and efficient ML systems. I enjoy working on all layers of the ML pipeline, from data ingestion and preprocessing to model deployment and monitoring, while continuously learning new tools and technologies.
+I’m a Data Scientist, passionate about designing data-driven solutions that bridge analytics, engineering, Machine Learning, and business insight. My work spans the entire data lifecycle; from building reliable data pipelines and scalable infrastructure to developing analytical tools and applications that drive smarter decisions. I enjoy tackling complex data challenges, optimizing processes, and continuously exploring new technologies to deliver measurable impact.
 
 - 🌍 I'm based in Strasbourg, France.
-- 🔭 Currently working on: AfricAI, AI Agents specialized on legal documents.
+- 🔭 Currently working on: Jobsika, a tool to automatize job search
 - 🌱 Currently learning: DevOps, Cloud Computing
 - 📫 Reach me at: carldimitri.fogue@gmail.com
 - 💬 Ask me about: Python, Langchain, Spark, SQL
@@ -42,6 +42,11 @@ I'm currently a Data Scientist at Société Générale, focusing on building int
 ---
 
 ## 📌 Featured Projects
+
+### [🔹 Jobsika, application tracking tool](https://github.com/akacarlll/Jobsika)
+A tool that helps you track your job applications effortlessly.
+It organizes the data from job descriptions you applied to into Google Sheets.
+**Tech:** Python, Django, FastAPI, Pandas, Plotly, Javascript, HTML, CSS, Selenium
 
 ### [🔹 AfricAi AI Agents, Legal Experts](https://github.com/akacarlll/AfricAI)
 Automated pipeline from data scraping and processing to index creation, aimed at developing AI agents for legal analysis across multiple countries.
