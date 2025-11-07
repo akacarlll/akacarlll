@@ -19,6 +19,8 @@ I’m a Data Scientist, passionate about designing data-driven solutions that br
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/akacarlll/github-readme-stats)
+
 **Frameworks/Libraries:**  
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
 ![Langchain](https://img.shields.io/badge/-Langchain-1C3C3C?style=flat-square&logo=Langchain&logoColor=white)
