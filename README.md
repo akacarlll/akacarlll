@@ -16,10 +16,7 @@ I’m a Data Scientist, passionate about designing data-driven solutions that br
 ## 🚀 Tech Stack
 
 **Languages:** 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aka.carlll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akacarlll&layout=compact&exclude_repo=NoSQL_SQL-Exercises,ai-agents-for-beginners,the_mvp_predictor,lyrics_generator,yolo-training-template,kaggle_competitions)
 
 **Frameworks/Libraries:**  
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
