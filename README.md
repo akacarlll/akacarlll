@@ -15,7 +15,6 @@ I’m a Data Scientist, passionate about designing data-driven solutions that br
 
 ## 🚀 Tech Stack
 
-**Languages:** 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akacarlll&layout=compact&exclude_repo=NoSQL_SQL-Exercises,ai-agents-for-beginners,the_mvp_predictor,lyrics_generator,yolo-training-template,kaggle_competitions)
 
 **Frameworks/Libraries:**  
