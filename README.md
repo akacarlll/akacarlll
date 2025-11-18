@@ -5,7 +5,7 @@
 I’m a Data Scientist, passionate about designing data-driven solutions that bridge analytics, engineering, Machine Learning, and business insight. My work spans the entire data lifecycle; from building reliable data pipelines and scalable infrastructure to developing analytical tools and applications that drive smarter decisions. I enjoy tackling complex data challenges, optimizing processes, and continuously exploring new technologies to deliver measurable impact.
 
 - 🌍 I'm based in Strasbourg, France.
-- 🔭 Currently working on: Jobsika, a tool to automatize job search
+- 🔭 Currently working on: A tool to automatise the creation of Tiktok videos leveraging the strength of AI
 - 🌱 Currently learning: DevOps, Cloud Computing
 - 📫 Reach me at: carldimitri.fogue@gmail.com
 - 💬 Ask me about: Python, Langchain, Spark, SQL
@@ -43,20 +43,31 @@ I’m a Data Scientist, passionate about designing data-driven solutions that br
 
 ### [🔹 Jobsika, application tracking tool](https://github.com/akacarlll/Jobsika)
 A tool that helps you track your job applications effortlessly.
-It organizes the data from job descriptions you applied to into Google Sheets.
-**Tech:** Python, Django, FastAPI, Pandas, Plotly, Javascript, HTML, CSS, Selenium
+It organizes the data from job descriptions you applied to into Google Sheets.  
+**Tech:** Python, Django, FastAPI, Pandas, Plotly, Javascript, HTML, CSS, Selenium  
+**Production Link:** [Jobsika](https://jobsika.onrender.com/)  
 
-### [🔹 AfricAi AI Agents, Legal Experts](https://github.com/akacarlll/AfricAI)
-Automated pipeline from data scraping and processing to index creation, aimed at developing AI agents for legal analysis across multiple countries.
-**Tech:** Python, Kedro, Pandas, Langchain, FAISS, Langchain, PostgreSQL Firebase
+
+### [🔹 Arxiv Discoverer, Scientific Articles Relationship Navigator](https://github.com/akacarlll/arxiv_discoverer)  
+This application visualizes research paper embeddings from ArXiv as a 3D interactive space where each paper is represented as a clickable point. Users can freely navigate through the embedding space, click on a point to view a paper's detailed information.  
+**Tech:** Python, Kedro, Pandas, FastAPI, AWS S3, TypeScript, React, ThreeJS, Vite  
+**Production Link:** [Arxiv_discoverer](https://arxiv-discoverer.onrender.com/)
 
 ### [🔹 Africai WebSite](https://github.com/akacarlll/africai_website)
 Interactive website for accessing AI-driven legal insights, designed for legal professionals and organizations seeking streamlined data access.  
-**Tech:** Python, Streamlit, Langchain, 
+**Tech:** Python, Streamlit, Langchain   
+**Production Link:** Soon...
+
+### [🔹 AfricAi AI Agents, Legal Experts](https://github.com/akacarlll/AfricAI)
+Automated pipeline from data scraping and processing to index creation, aimed at developing AI agents for legal analysis across multiple countries.  
+**Tech:** Python, Kedro, Pandas, Langchain, FAISS, Langchain, PostgreSQL  
+**Production Link:** This is only a backend  
 
 ### [🔹 Vizualisation and Prediction on NBA Stats](https://github.com/akacarlll/the_mvp_predictor)
-Predicts NBA MVP candidates and visualizes player performance trends through interactive dashboards, built for sports analysts and enthusiasts. 
-**Tech:** Pandas, PowerBI, Pandas
+Predicts NBA MVP candidates and visualizes player performance trends through interactive dashboards, built for sports analysts and enthusiasts.   
+**Tech:** Pandas, PowerBI, Pandas  
+**Production Link:** Download the following PowerBI [NBAVizualiser](https://github.com/akacarlll/the_mvp_predictor/blob/main/NBA_viz.pbix)
+
 
 
 ## 🔗 Let's Connect
